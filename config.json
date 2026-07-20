@@ -1,10 +1,10 @@
 {
   "feeds": [
     {
-      "name": "SF Bay - Road Bikes under $500",
-      "url": "https://sfbay.craigslist.org/search/sss?query=road+bike&max_price=500&sort=date"
+      "name": "Fontana 80-Mile Private Cars 2015-2025 Under 110K Miles",
+      "url": "https://www.craigslist.org/search/city/fontana-ca?cat=cta&lat=34.1884&lon=-117.5153&max_auto_miles=110000&max_auto_year=2025&min_auto_year=2015&purveyor=owner&radius=80#search=2~gallery~0"
     }
   ],
-  "max_age_days": 14,
+  "max_age_days": 1,
   "max_items_per_feed": 100
 }
