@@ -1,0 +1,10 @@
+{
+  "feeds": [
+    {
+      "name": "SF Bay - Road Bikes under $500",
+      "url": "https://sfbay.craigslist.org/search/sss?query=road+bike&max_price=500&sort=date"
+    }
+  ],
+  "max_age_days": 14,
+  "max_items_per_feed": 100
+}
